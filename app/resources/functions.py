@@ -1,0 +1,1 @@
+# File to store all important functions that are used in most processes in the app
