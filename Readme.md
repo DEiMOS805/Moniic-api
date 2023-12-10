@@ -1,12 +1,12 @@
 # Proyecto conciliaciones bancarias para Moniic
 ** Integrantes del equipo **
 > Alan
-Luis
-Sari
-Bruno
-Georgie
-Sandoval Gil Gael Sebastián
-...
+> Luis
+> Sari
+> Bruno
+> Georgie
+> Sandoval Gil Gael Sebastián
+> ...
 
 ### Descripción del proyecto
 Esta API proporciona servicios para realizar conciliaciones de facturas en los esquemas de PPD (Pago en Parcialidades Diferidas) y PUE (Pago en Una Exhibición) en el contexto de facturación electrónica. La conciliación de facturas es crucial para asegurar la integridad y coherencia de los registros financieros.
